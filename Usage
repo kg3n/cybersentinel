@@ -1,0 +1,10 @@
+usage: cybersentinel.py [-h] [-f FILE] [-v] [--html] [url]
+
+positional arguments:
+  url                   Target URL to scan
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -f FILE, --file FILE  File containing URLs to scan
+  -v, --verbose         Verbose output
+  --html                Generate HTML report
